@@ -1,2 +1,2 @@
 # literate-lamp
-Fuse Hello World
+Fuse Rest Hello World
